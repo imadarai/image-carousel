@@ -10,3 +10,4 @@ As bonus features, I added touch events for mobile users and consfigured CSS to 
  * HTML5
  * CSS3
 
+![Project Image](https://github.com/imadarai/image-carousel/blob/master/images/gitimage.png?raw=true)
