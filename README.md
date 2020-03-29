@@ -6,10 +6,7 @@ This particular project, Image Carousel, was built over the course of 2 days.  I
 As bonus features, I added touch events for mobile users and consfigured CSS to be able to display the carousel on mobile devices seamlessly.  
 
 ## STACK
-## un-ordered list
  * Javascript
  * HTML5
  * CSS3
- 
- ![Alt text](/path/to/img.jpg)
 
